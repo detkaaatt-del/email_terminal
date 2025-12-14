@@ -3,9 +3,14 @@
         "help": "The Delta Green Criminal Database",
         "clear": true,
         "message": [
-            "Name:Tommy Gibson"
-            "D.O.B:10/02/1969"
-            "Crimes:Too Cool For School"
+            "Name: Tommy Gibson",
+            "D.O.B: 10/02/1969",
+            "Crimes: Too Cool For School",
+            "<img src='config/network/localhost/tommy.png'>",
+            "Name: Phillip Peterson A.K.A 'Philly P' ",
+            "D.O.B: I lowkey dont know",
+            "Crimes: Bit of a neek like",
+            "<img src='config/network/localhost/tommy.png'>"
             
         ]
     },
