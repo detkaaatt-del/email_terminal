@@ -4,7 +4,10 @@
     "serverName": "Bridsville Sheriff Department",
     "iconName": "police.png",
     "terminalID": "Y56",
-
+    "defaultUser": {
+        "userId": "user",
+        "password": "",
+        "userName": "anonymous"
     },
     "initialHistory": {
         "user": [
@@ -13,5 +16,6 @@
         "admin": [
             "ping fbi.gov"
         ]
-    }
+        
+
 }
