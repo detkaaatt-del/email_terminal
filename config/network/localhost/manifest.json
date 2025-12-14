@@ -1,7 +1,7 @@
 {
     "serverAddress": "localhost",
     "serverName": "Delta Green",
-    "iconName": "Delta-Green.png",
+    "iconName": "delta-green.png",
     "terminalID": "Y56",
     "defaultUser": {
         "userId": "user",
