@@ -1,13 +1,10 @@
 {
     "year": "1986"
     "serverAddress": "localhost",
-    "serverName": "Delta Green",
-    "iconName": "delta-green.png",
+    "serverName": "Bridsville Sheriff Department",
+    "iconName": "police.png",
     "terminalID": "Y56",
-    "defaultUser": {
-        "userId": "user",
-        "password": "",
-        "userName": "anonymous"
+
     },
     "initialHistory": {
         "user": [
