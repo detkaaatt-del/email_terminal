@@ -1,6 +1,7 @@
 {
     "Criminal-Database.exe": {
         "help": "The Delta Green Criminal Database",
+        "delayed": 2000,
         "clear": true,
         "message": [
             "Name: Tommy Gibson",
